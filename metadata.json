@@ -1,0 +1,6 @@
+{
+  "name": "PDFBRO",
+  "description": "Professional mobile-first document layout formatting and vector PDF compilation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
